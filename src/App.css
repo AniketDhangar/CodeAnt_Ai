@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#menu a:hover{
+background: rgb(20, 20, 255);
+color: white;
+}
